@@ -15,7 +15,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class Imagenes extends Application {
+public class Imagenes_GS3x3 extends Application {
    public static void main(String args[]) {
       launch(args);
    }
